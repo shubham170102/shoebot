@@ -1,0 +1,17 @@
+/Users/shubhamshrivastava/Desktop/coding projects/shoebotc#/ConsoleApp/bin/Debug/net8.0/ConsoleApp
+/Users/shubhamshrivastava/Desktop/coding projects/shoebotc#/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+/Users/shubhamshrivastava/Desktop/coding projects/shoebotc#/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+/Users/shubhamshrivastava/Desktop/coding projects/shoebotc#/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+/Users/shubhamshrivastava/Desktop/coding projects/shoebotc#/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+/Users/shubhamshrivastava/Desktop/coding projects/shoebotc#/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shubhamshrivastava/Desktop/coding projects/shoebotc#/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/shubhamshrivastava/Desktop/coding projects/shoebotc#/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+/Users/shubhamshrivastava/Desktop/coding projects/shoebotc#/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/shubhamshrivastava/Desktop/coding projects/shoebotc#/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+/Users/shubhamshrivastava/Desktop/coding projects/shoebotc#/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+/Users/shubhamshrivastava/Desktop/coding projects/shoebotc#/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+/Users/shubhamshrivastava/Desktop/coding projects/shoebotc#/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+/Users/shubhamshrivastava/Desktop/coding projects/shoebotc#/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll
+/Users/shubhamshrivastava/Desktop/coding projects/shoebotc#/ConsoleApp/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/shubhamshrivastava/Desktop/coding projects/shoebotc#/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.AssemblyReference.cache
+/Users/shubhamshrivastava/Desktop/coding projects/shoebotc#/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.Up2Date

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sQupKRJX54RjCra3eEFDsKQ9h64UKUvMi39Cwnmtf6r45Yd9D8sT3/BeQdSTZTwg7qNIlPdMSvRw3a2dgMON+w==",
+  "success": true,
+  "projectFilePath": "/Users/shubhamshrivastava/Desktop/coding projects/shoebotc#/ConsoleApp/ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/shubhamshrivastava/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
